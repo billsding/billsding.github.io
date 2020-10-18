@@ -1,13 +1,10 @@
 ---
 title: "Conspicuous Gifting: When and Why Women (Do Not) Appreciate Men’s Romantic Luxury Gifts"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-03-01
 venue: 'Journal of Experimental Social Psychology'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+While research suggests that conspicuously displaying luxury goods can help men signal desirable qualities such as high earning capacity and social status, little is known about how women evaluate and interpret luxury items given as romantic gifts by men. The current research explores this under-researched question and reveals that women do not always react favorably to luxury gifts. Instead, women are wary that accepting luxury gifts may lead to relationship power imbalance, which prompts less favorable reactions to such gifts. We also test the competing explanation of relationship commitment and find that signaling commitment does not emerge until a relationship becomes more established. Furthermore, individual differences in power distance belief (PDB) are explored to test our theoretical explanation with results indicating that women low in PDB are more likely to have concerns about power imbalance. Together, these findings highlight the unique role of luxury gifts in romantic relationships and thereby advance our understanding of when and why men's romantic luxury gifts will be appreciated by women. More generally, our findings provide nuanced insights into the power dynamics between men and women and the progression of a romantic relationship. Implications for luxury consumption and gender stereotypes are discussed.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0022103119302136)
 
