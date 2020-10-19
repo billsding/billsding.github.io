@@ -9,6 +9,6 @@ type: "Undergraduate course"
 
 
 2018 Summer, WSU (4.2/5.0)
-======
+===
 
 
