@@ -16,6 +16,6 @@ Education
   
 Service 
 ======
-* Advisor for SUMA SCSU
+* Advisor for SUMA, SCSU
 * Search Committee / Marketing Department, SCSU
 * AASCB Standard Alignment Committee, SCSU
