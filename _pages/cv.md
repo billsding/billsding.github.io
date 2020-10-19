@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Statistics, Washington State University, 2020
-* Ph.D in Marketing, Washington State University, 2020
+* Ph.D. in Marketing, Washington State University, 2020
   
 Service 
 ======
