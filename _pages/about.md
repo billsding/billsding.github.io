@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 Welcome! My name is Bill (Shi Biao) and I am an assistant professor of Marketing at Southern Connecticut State University.
-From this website, you can see of my publication and working papers, as well as my teaching (past and undergoing). You can also visit my old Github page on statistics. If you have questions or comments, please feel free to reach me: dings1 (at) southernCT.edu.
+From this website, you can see of my publication and working papers, as well as my teaching (past and undergoing). If you have questions or comments, please feel free to reach me: dings1 (at) southernCT.edu. You can also visit [my statistics Github page](https://williamdingpullman.github.io/).
