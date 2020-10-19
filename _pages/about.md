@@ -13,4 +13,4 @@ From this website, you can see of my publication and working papers, teaching (p
 
 Regarding research, one stream of my research studies the role of value and belief in shaping consumer decision making. Another research topic is about how consumers spend money in close relationships (e.g., gift-giving). You can read more about my research by clicking [here](https://billsding.github.io/publications/). 
 
-I have taught Marketing Research, Consumer Behavior, and International Business at WSU. In the Fall 2020, I am teaching Marketing Research and Consumer Behavior at Southern. You can read more about my research by clicking [here](https://billsding.github.io/teaching/). 
+I have taught Marketing Research, Consumer Behavior, and International Business at WSU. In the Fall 2020, I am teaching Marketing Research and Consumer Behavior at Southern. You can read more about my teaching by clicking [here](https://billsding.github.io/teaching/). 
