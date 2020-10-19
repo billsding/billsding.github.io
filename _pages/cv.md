@@ -18,4 +18,4 @@ Service
 ======
 * Advisor for SUMA, SCSU
 * Search Committee / Marketing Department, SCSU
-* AASCB Standard Alignment Committee, SCSU
+* AACSB Standard Alignment Committee, SCSU
