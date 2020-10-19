@@ -1,5 +1,5 @@
 ---
-title: "Idelogy and Marketing"
+title: "Ideology and Marketing"
 collection: publications
 permalink: /publication/social-spending
 excerpt: 'Under 3rd round review @ Journal of Public Policy & Marketing.'
