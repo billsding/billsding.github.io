@@ -2,19 +2,16 @@
 title: "Consumer Behavior"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-summer
-venue: "WSU, Marketing Department"
-date: 2018-06-01
-location: "Pullman, WA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+2020 Fall, SCSU (Ongoing)
 ======
 
-Heading 2
+2019 Summer, WSU (4.7/5)
 ======
 
-Heading 3
+2018 Summer, WSU (4.2/5)
 ======
+
+
