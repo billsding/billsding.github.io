@@ -2,8 +2,8 @@
 title: "Consumer Behavior"
 collection: teaching
 date: 2020-09-01
-venue: "University 1, Department"
-permalink: /teaching/Consumer-Behavior
+venue: "SCSU, Marketing Department"
+permalink: /teaching/Consumer-Behavior-2020Fall
 type: "Undergraduate course"
 ---
 
