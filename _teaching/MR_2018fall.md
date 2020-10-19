@@ -1,5 +1,5 @@
 ---
-title: "Consumer Behavior"
+title: "Marketing Research"
 collection: teaching
 date: 2018-09-01
 venue: "WSU, Marketing Department"
