@@ -1,10 +1,11 @@
 ---
 title: "Consumer Behavior"
 collection: teaching
+permalink: /teaching/Consumer-Behavior
 type: "Undergraduate course"
 ---
 
-
+======
 2020 Fall, SCSU (Ongoing)
 ======
 
