@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Bill and I am an assistant professor of Marketing at Southern Connecticut State University.
+Welcome! My name is Bill.
 
