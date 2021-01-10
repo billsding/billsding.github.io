@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bill's Academic Website"
 title_separator          : "-"
-name                     : &name "Shi Biao (Bill) Ding"
+name                     : &name "Bill"
 description              : &description "This is Bill. Welcome to my website."
 url                      : https://billsding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shi Biao (Bill) Ding"
+  name             : "Bill"
   avatar           : "Bill.jpg"
-  bio              : "Assistant Prof. of Marketing"
+  bio              : 
   location         : 
   employer         :
   pubmed           : 
