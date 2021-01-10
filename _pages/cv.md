@@ -9,8 +9,3 @@ redirect_from:
 
 {% include base_path %}
 
-Service 
-======
-* Advisor for SUMA, SCSU
-* Search Committee / Marketing Department, SCSU
-* AACSB Standard Alignment Committee, SCSU
